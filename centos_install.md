@@ -4,8 +4,8 @@
 ### Assumptions
 |Role|machine name|IP address|Memory|Operating System|
 |-|-|-|-|-|
-|master node 1|centosvm01|172.42.42.101|1G|CentOS 7.5|
-|master node 2|centosvm02|172.42.42.102|1G|CentOS 7.5|
+|master node 1|centosvm01|172.42.42.101|2G|CentOS 7.x|
+|master node 2|centosvm02|172.42.42.102|2G|CentOS 7.x|
 
 ### On First node
 ##### Open firewall ports
